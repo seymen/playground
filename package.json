@@ -1,0 +1,15 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js -q -x 'clear && node'"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "nodemon": "latest"
+  },
+  "dependencies": {
+    "eyes": "latest"
+  }
+}
